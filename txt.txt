@@ -1,0 +1,33 @@
+<<<<NOTARY>>>>
+img to html
+    section define
+    resorce gather
+
+        logo/icon /text/icon=text=pnj
+        image
+        icon
+        text
+
+
+    code comment
+    semantic markup
+    css-repetation
+    css-code hei...
+    ( like width er pore height bose amon)
+    consistance
+
+
+
+Notaraise a Document
+How it works
+eForm
+Solutions
+Bacome a Notary agent 
+Support 
+
+<p></p>
+
+font-family  3types ( no 1:-serif 2 sans-serif 3 mono-spech)
+font-size
+font-weight  normal-regular blod( 300 400 700)
+color
